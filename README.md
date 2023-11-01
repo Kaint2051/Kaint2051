@@ -1,4 +1,4 @@
-### Hello 👋, I am [ka1nt](https://rusty-sj.github.io/)! 😁
+### Hello 👋, I am [ka1nt]! 😁
 
 
 - 🔭 I’m currently working in Network Operation Center at [VNNIC](vnnic.vn)
