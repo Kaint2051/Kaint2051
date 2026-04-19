@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working in Network Operation Center at [VNNIC](https://vnnic.vn)
-- 💬 A place for my miscellaneous Lab exercises
+- 💬 A place for my misc Lab exercises
 - ⚡ Fun fact:  I Hate Mobifone :) 
 - 📝 [Resume](https://github.com/Kaint2051/Kaint2051/blob/main/Resume_NguyenQuocTuan.pdf)
 
